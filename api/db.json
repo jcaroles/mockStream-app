@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream!",
+      "id": 1
+    },
+    {
+      "title": "Other Streams",
+      "description": "Great other stream!",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Last about REST-BASED!",
+      "id": 5
+    },
+    {
+      "title": "Feb 23 Stream",
+      "description": "Streaming!",
+      "userId": "117083395549129121277",
+      "id": 6
+    }
+  ]
+}
